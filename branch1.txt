@@ -2,8 +2,5 @@ hello vardan and gourav
 commit pull then push
 hello vardan and gourav
 THese are the changes made by Gourav. Kishan need to piull these changes first.
-<<<<<<< HEAD
 Hello this is 5th line change by Kishan.
-=======
 More chages by Gourav.
->>>>>>> 16f2d0be402f20ecc37780b417325486d1ba31e0
