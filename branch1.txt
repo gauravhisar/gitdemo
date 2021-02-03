@@ -1,1 +1,2 @@
-hello vardan and gourav
+hello vardan and gourav 
+commit pull then push
