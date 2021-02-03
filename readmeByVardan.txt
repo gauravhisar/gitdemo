@@ -1,5 +1,4 @@
 Hi, guys. Whats up?
-<<<<<<< HEAD
 My name is Gourav.
 Kishan
 Hey git is shut.
@@ -12,3 +11,5 @@ Heyhey
 Vardan
 Eminem
 Thrift Shop
+Justin Timberlake is here
+GB did this
