@@ -1,4 +1,5 @@
 Hi, guys. Whats up?
+<<<<<<< HEAD
 My name is Gourav.
 Kishan
 Hey git is shut.
@@ -8,4 +9,4 @@ Heyhey
 Heyhey
 Heyhey
 Heyhey
-
+Vardan
